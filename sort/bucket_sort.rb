@@ -35,5 +35,3 @@ def bucket_sort(array, bucket_size = 5)
 
   return sorted_array
 end
-
-puts bucket_sort([1, 30, 45, 29, 23, 34, 27])
